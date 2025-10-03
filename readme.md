@@ -101,7 +101,7 @@ npm install
 
 3. **Environment Variables:** Create a .env file in the root of your frontend directory and configure:
 ```bash
-VITE_API_URL=
+VITE_API_URL=https://book-library-43ed.onrender.com
 ```
 
 4. **Start the Application:**
